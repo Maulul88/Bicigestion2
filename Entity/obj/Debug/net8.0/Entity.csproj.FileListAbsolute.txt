@@ -1,0 +1,12 @@
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\bin\Debug\net8.0\Entity.deps.json
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\bin\Debug\net8.0\Entity.dll
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\bin\Debug\net8.0\Entity.pdb
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\obj\Debug\net8.0\Entity.dll
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\obj\Debug\net8.0\refint\Entity.dll
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\obj\Debug\net8.0\Entity.pdb
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\obj\Debug\net8.0\ref\Entity.dll
+D:\UAI\LUG\LUG 2\BiciGestion2\Bicigestion2\Entity\obj\Debug\net8.0\Entity.csproj.Up2Date

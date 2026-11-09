@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C98718-3A98-4188-95AA-AA49A88288E3}|Bicigestion2\\Bicigestion2.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\bicigestion2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C98718-3A98-4188-95AA-AA49A88288E3}|Bicigestion2\\Bicigestion2.csproj|solutionrelative:bicigestion2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C98718-3A98-4188-95AA-AA49A88288E3}|Bicigestion2\\Bicigestion2.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\bicigestion2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8C98718-3A98-4188-95AA-AA49A88288E3}|Bicigestion2\\Bicigestion2.csproj|solutionrelative:bicigestion2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F740F8-D06C-42BB-B2AA-22257BFDA0F4}|DAL\\DAL.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\dal\\connectionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F740F8-D06C-42BB-B2AA-22257BFDA0F4}|DAL\\DAL.csproj|solutionrelative:dal\\connectionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F740F8-D06C-42BB-B2AA-22257BFDA0F4}|DAL\\DAL.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\dal\\alquilerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F740F8-D06C-42BB-B2AA-22257BFDA0F4}|DAL\\DAL.csproj|solutionrelative:dal\\alquilerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B26CF14-C2F2-45D9-9B7B-FC524407741E}|BLL\\BLL.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\bll\\tipobicicletabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B26CF14-C2F2-45D9-9B7B-FC524407741E}|BLL\\BLL.csproj|solutionrelative:bll\\tipobicicletabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B26CF14-C2F2-45D9-9B7B-FC524407741E}|BLL\\BLL.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\bll\\alquilerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B26CF14-C2F2-45D9-9B7B-FC524407741E}|BLL\\BLL.csproj|solutionrelative:bll\\alquilerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F740F8-D06C-42BB-B2AA-22257BFDA0F4}|DAL\\DAL.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\dal\\tipobicicletadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F740F8-D06C-42BB-B2AA-22257BFDA0F4}|DAL\\DAL.csproj|solutionrelative:dal\\tipobicicletadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B9A27A-842F-4ADD-B032-76A05CAE6213}|Mapper\\Mapper.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\mapper\\alquilermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B9A27A-842F-4ADD-B032-76A05CAE6213}|Mapper\\Mapper.csproj|solutionrelative:mapper\\alquilermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B9A27A-842F-4ADD-B032-76A05CAE6213}|Mapper\\Mapper.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\mapper\\tipobicicletamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B9A27A-842F-4ADD-B032-76A05CAE6213}|Mapper\\Mapper.csproj|solutionrelative:mapper\\tipobicicletamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9F3FF4-B8FE-4EE5-93BB-282AAFB35546}|Entity\\Entity.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\entity\\alquilerelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9F3FF4-B8FE-4EE5-93BB-282AAFB35546}|Entity\\Entity.csproj|solutionrelative:entity\\alquilerelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9F3FF4-B8FE-4EE5-93BB-282AAFB35546}|Entity\\Entity.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\entity\\alquilermontana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9F3FF4-B8FE-4EE5-93BB-282AAFB35546}|Entity\\Entity.csproj|solutionrelative:entity\\alquilermontana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9F3FF4-B8FE-4EE5-93BB-282AAFB35546}|Entity\\Entity.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\entity\\alquilerurbana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9F3FF4-B8FE-4EE5-93BB-282AAFB35546}|Entity\\Entity.csproj|solutionrelative:entity\\alquilerurbana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9F3FF4-B8FE-4EE5-93BB-282AAFB35546}|Entity\\Entity.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\entity\\tipobicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9F3FF4-B8FE-4EE5-93BB-282AAFB35546}|Entity\\Entity.csproj|solutionrelative:entity\\tipobicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9F3FF4-B8FE-4EE5-93BB-282AAFB35546}|Entity\\Entity.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\entity\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9F3FF4-B8FE-4EE5-93BB-282AAFB35546}|Entity\\Entity.csproj|solutionrelative:entity\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C98718-3A98-4188-95AA-AA49A88288E3}|Bicigestion2\\Bicigestion2.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\bicigestion2\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{A8C98718-3A98-4188-95AA-AA49A88288E3}|Bicigestion2\\Bicigestion2.csproj|solutionrelative:bicigestion2\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C98718-3A98-4188-95AA-AA49A88288E3}|Bicigestion2\\Bicigestion2.csproj|d:\\uai\\lug\\lug 2\\bicigestion2\\bicigestion2\\bicigestion2\\bicigestion2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A8C98718-3A98-4188-95AA-AA49A88288E3}|Bicigestion2\\Bicigestion2.csproj|solutionrelative:bicigestion2\\bicigestion2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Bicigestion2\\Form1.cs",
+              "RelativeDocumentMoniker": "Bicigestion2\\Form1.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Bicigestion2\\Form1.cs*",
+              "RelativeToolTip": "Bicigestion2\\Form1.cs*",
+              "ViewState": "AgIAAK4AAAAAAAAAAAA2wNMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:45:39.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlquilerBusiness.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\BLL\\AlquilerBusiness.cs",
+              "RelativeDocumentMoniker": "BLL\\AlquilerBusiness.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\BLL\\AlquilerBusiness.cs",
+              "RelativeToolTip": "BLL\\AlquilerBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:43:21.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoBicicletaBusiness.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\BLL\\TipoBicicletaBusiness.cs",
+              "RelativeDocumentMoniker": "BLL\\TipoBicicletaBusiness.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\BLL\\TipoBicicletaBusiness.cs",
+              "RelativeToolTip": "BLL\\TipoBicicletaBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:43:00.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlquilerDao.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\DAL\\AlquilerDao.cs",
+              "RelativeDocumentMoniker": "DAL\\AlquilerDao.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\DAL\\AlquilerDao.cs",
+              "RelativeToolTip": "DAL\\AlquilerDao.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAADwv6MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:41:39.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoBicicletaDao.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\DAL\\TipoBicicletaDao.cs",
+              "RelativeDocumentMoniker": "DAL\\TipoBicicletaDao.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\DAL\\TipoBicicletaDao.cs",
+              "RelativeToolTip": "DAL\\TipoBicicletaDao.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:41:14.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectionUtils.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\DAL\\ConnectionUtils.cs",
+              "RelativeDocumentMoniker": "DAL\\ConnectionUtils.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\DAL\\ConnectionUtils.cs",
+              "RelativeToolTip": "DAL\\ConnectionUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:40:47.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlquilerMapper.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Mapper\\AlquilerMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\AlquilerMapper.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Mapper\\AlquilerMapper.cs",
+              "RelativeToolTip": "Mapper\\AlquilerMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:40:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoBicicletaMapper.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Mapper\\TipoBicicletaMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\TipoBicicletaMapper.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Mapper\\TipoBicicletaMapper.cs",
+              "RelativeToolTip": "Mapper\\TipoBicicletaMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:39:48.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Bicigestion2\\Form1.cs",
+              "RelativeDocumentMoniker": "Bicigestion2\\Form1.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Bicigestion2\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Bicigestion2\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:32:32.059Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlquilerElectrica.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Entity\\AlquilerElectrica.cs",
+              "RelativeDocumentMoniker": "Entity\\AlquilerElectrica.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Entity\\AlquilerElectrica.cs",
+              "RelativeToolTip": "Entity\\AlquilerElectrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:39:19.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlquilerMontana.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Entity\\AlquilerMontana.cs",
+              "RelativeDocumentMoniker": "Entity\\AlquilerMontana.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Entity\\AlquilerMontana.cs",
+              "RelativeToolTip": "Entity\\AlquilerMontana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:38:58.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlquilerUrbana.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Entity\\AlquilerUrbana.cs",
+              "RelativeDocumentMoniker": "Entity\\AlquilerUrbana.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Entity\\AlquilerUrbana.cs",
+              "RelativeToolTip": "Entity\\AlquilerUrbana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:37:48.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Alquiler.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Entity\\Alquiler.cs",
+              "RelativeDocumentMoniker": "Entity\\Alquiler.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Entity\\Alquiler.cs",
+              "RelativeToolTip": "Entity\\Alquiler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:37:12.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoBicicleta.cs",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Entity\\TipoBicicleta.cs",
+              "RelativeDocumentMoniker": "Entity\\TipoBicicleta.cs",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Entity\\TipoBicicleta.cs",
+              "RelativeToolTip": "Entity\\TipoBicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:36:57.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Bicigestion2\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Bicigestion2\\Properties\\Settings.settings",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Bicigestion2\\Properties\\Settings.settings",
+              "RelativeToolTip": "Bicigestion2\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2026-11-09T15:36:13.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bicigestion2",
+              "DocumentMoniker": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Bicigestion2\\Bicigestion2.csproj",
+              "RelativeDocumentMoniker": "Bicigestion2\\Bicigestion2.csproj",
+              "ToolTip": "D:\\UAI\\LUG\\LUG 2\\BiciGestion2\\Bicigestion2\\Bicigestion2\\Bicigestion2.csproj",
+              "RelativeToolTip": "Bicigestion2\\Bicigestion2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T15:35:45.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

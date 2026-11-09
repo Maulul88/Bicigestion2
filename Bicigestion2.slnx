@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Bicigestion2/Bicigestion2.csproj" />
+  <Project Path="BLL/BLL.csproj" />
+  <Project Path="DAL/DAL.csproj" />
+  <Project Path="Entity/Entity.csproj" />
+  <Project Path="Mapper/Mapper.csproj" />
+</Solution>
